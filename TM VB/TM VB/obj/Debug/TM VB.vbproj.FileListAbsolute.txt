@@ -1,0 +1,26 @@
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\TM VB.exe.config
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\TM VB.exe
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\TM VB.pdb
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\TM VB.xml
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.vbprojAssemblyReference.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.FormLogin.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.Resources.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.exe
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.xml
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.pdb
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.FrmLoad.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.Sub_Frm.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.FrmBarang.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.Frm_input_barang.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.Frmpenjualan.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.FrmLaporan.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\Interop.Crystal.dll
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\AxInterop.Crystal.dll
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\Interop.Crystal.dll
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\AxInterop.Crystal.dll
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM VB.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.Form_User.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\obj\Debug\TM_VB.FrmLapPenjualan.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\TM VB\TM VB\bin\Debug\DBPenjualan.mdb
